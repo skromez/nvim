@@ -1,4 +1,3 @@
-local treesitter = require("plugins.nvim-treesitter")
 return {
 	{
 		"hrsh7th/nvim-cmp",
