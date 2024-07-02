@@ -11,8 +11,8 @@ return {
 			else
 				require("llm").setup({
 					api_key = api_key,
-					-- model = "anthropic/claude-3.5-sonnet",
-					model = "deepseek/deepseek-coder",
+					model = "anthropic/claude-3.5-sonnet",
+					-- model = "deepseek/deepseek-coder",
 				})
 			end
 		end,
